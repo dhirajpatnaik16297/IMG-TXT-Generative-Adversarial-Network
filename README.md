@@ -18,7 +18,8 @@ Below are some snippets of the results of images and text generated during train
 ![mnist_27](https://user-images.githubusercontent.com/24193718/53632009-e25c1a00-3c39-11e9-935e-4d53eccd0fe0.png)
 
 epoch26,Generated Nos.
-['8', '3', '3', '8', '9', '8', '9', '0', '3', '6', 
+['8', '3', '3', '8', '9', '8', '9', '0', '3', '6',
+
  '0', '6', '0', '6', '1', '0', '8', '8', '8', '0', 
  '1', '3', '2', '9', '3', '1', '8', '9', '3', '1', 
  '8', '6', '3', '1', '8', '1', '3', '8', '1', '8', 
