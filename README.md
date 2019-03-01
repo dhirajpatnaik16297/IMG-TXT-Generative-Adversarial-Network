@@ -9,6 +9,6 @@ Following is the architecture of my model
 Programming language used: python 3.5
 
 Libraries used: tensorflow 1.4,
-                numpy, matplotlib and picckle
+                numpy, matplotlib and pickle
                 
 
