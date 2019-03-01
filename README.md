@@ -18,16 +18,25 @@ Below are some snippets of the results of images and text generated during train
 ![mnist_27](https://user-images.githubusercontent.com/24193718/53632009-e25c1a00-3c39-11e9-935e-4d53eccd0fe0.png)
 
 epoch26,Generated Nos.
+
 ['8', '3', '3', '8', '9', '8', '9', '0', '3', '6',
 
- '0', '6', '0', '6', '1', '0', '8', '8', '8', '0', 
- '1', '3', '2', '9', '3', '1', '8', '9', '3', '1', 
- '8', '6', '3', '1', '8', '1', '3', '8', '1', '8', 
- '6', '8', '3', '8', '1', '8', '3', '1', '0', '1', 
- '3', '9', '0', '0', '1', '8', '3', '1', '9', '1', 
+ '0', '6', '0', '6', '1', '0', '8', '8', '8', '0',
+ 
+ '1', '3', '2', '9', '3', '1', '8', '9', '3', '1',
+ 
+ '8', '6', '3', '1', '8', '1', '3', '8', '1', '8',
+ 
+ '6', '8', '3', '8', '1', '8', '3', '1', '0', '1',
+ 
+ '3', '9', '0', '0', '1', '8', '3', '1', '9', '1',
+ 
  '3', '9', '8', '8', '8', '8', '6', '8', '9', '1',
- '8', '6', '0', '9', '0', '9', '6', '1', '6', '8', 
- '3', '8', '3', '0', '6', '8', '8', '8', '3', '1', 
+ 
+ '8', '6', '0', '9', '0', '9', '6', '1', '6', '8',
+ 
+ '3', '8', '3', '0', '6', '8', '8', '8', '3', '1',
+ 
  '9', '3', '6', '8', '6', '8', '0', '3', '8', '8']
 
 
@@ -35,15 +44,25 @@ epoch26,Generated Nos.
 ![mnist_31](https://user-images.githubusercontent.com/24193718/53634016-15ed7300-3c3f-11e9-96eb-c91a79bb5d0b.png)
 
 epoch30,Generated Nos.
+
 ['8', '6', '3', '8', '8', '8', '8', '0', '3', '8', 
+
  '8', '6', '8', '6', '2', '0', '4', '3', '8', '0', 
+ 
  '8', '8', '8', '8', '3', '2', '8', '1', '6', '3', 
+ 
  '8', '6', '3', '1', '8', '1', '6', '8', '2', '8', 
- '8', '8', '8', '8', '3', '0', '3', '2', '8', '0', 
- '2', '8', '0', '0', '8', '8', '3', '2', '8', '1', 
- '3', '9', '8', '1', '8', '4', '6', '8', '0', '1', 
- '8', '8', '0', '2', '0', '8', '4', '3', '8', '8', 
- '6', '8', '8', '0', '8', '3', '8', '8', '8', '2', 
+ 
+ '8', '8', '8', '8', '3', '0', '3', '2', '8', '0',
+ 
+ '2', '8', '0', '0', '8', '8', '3', '2', '8', '1',
+ 
+ '3', '9', '8', '1', '8', '4', '6', '8', '0', '1',
+ 
+ '8', '8', '0', '2', '0', '8', '4', '3', '8', '8',
+ 
+ '6', '8', '8', '0', '8', '3', '8', '8', '8', '2',
+ 
  '8', '3', '6', '8', '4', '4', '0', '6', '8', '8']
  
- ## NOTE: epoch number in image and text are different because for text i have startted from epoch 0. So please make sure while taking a look into the results folder img_results folder has all images and generated_txt file has the generated text(*starting from epoch 0)
+ ### NOTE: epoch number in image and text are different because for text i have startted from epoch 0. So please make sure while taking a look into the results folder img_results folder has all images and generated_txt file has the generated text(*starting from epoch 0)
