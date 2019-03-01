@@ -10,7 +10,7 @@ Programming language used: python 3.5
 
 Libraries used: tensorflow 1.4,
                 numpy, matplotlib and pickle
-                
+### I trained them using around 12 GB of GPU memory which took approximately 2 days
 
 Below are some snippets of the results of images and text generated during training. Please compare both image and text generated to know the relation between them.
 
@@ -65,4 +65,4 @@ epoch30,Generated Nos.
  
  '8', '3', '6', '8', '4', '4', '0', '6', '8', '8']
  
- ### NOTE: epoch number in image and text are different because for text i have startted from epoch 0. So please make sure while taking a look into the results folder img_results folder has all images and generated_txt file has the generated text(*starting from epoch 0)
+ #### NOTE: epoch number in image and text are different because for text i have startted from epoch 0. So please make sure while taking a look into the results folder img_results folder has all images and generated_txt file has the generated text(*starting from epoch 0)
