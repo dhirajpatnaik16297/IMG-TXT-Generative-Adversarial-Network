@@ -7,8 +7,8 @@ Following is the architecture of my model
 ##Please click on the image for a larger view
 
 Programming language used: python 3.5
+
 Libraries used: tensorflow 1.4,
                 numpy, matplotlib and picckle
                 
 
-Following is the GIF of the training model generated images of handwritten digits
