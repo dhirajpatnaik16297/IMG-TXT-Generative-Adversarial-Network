@@ -12,3 +12,7 @@ Libraries used: tensorflow 1.4,
                 numpy, matplotlib and pickle
                 
 
+Below are some snippets of the results of images and text generated during training. Please compare both image and text generated to know the relation between them.
+
+1)for epoch 27
+![mnist_27](https://user-images.githubusercontent.com/24193718/53632009-e25c1a00-3c39-11e9-935e-4d53eccd0fe0.png)
