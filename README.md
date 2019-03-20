@@ -1,5 +1,6 @@
 # IMG-TXT-Generative-Adversarial-Network
-I have tried to find relation between image and text and generating them simultaneously using Generative Adversarial Networks.
+Inspired by the paper on Stack GAN https://arxiv.org/pdf/1612.03242.pdf which generates realistic images from text,
+I have tried to find relation between image and text and generating both of them simultaneously using Generative Adversarial Networks.
 
 Following is the architecture of my model
 
