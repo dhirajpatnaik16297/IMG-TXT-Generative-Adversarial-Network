@@ -11,7 +11,7 @@ Programming language used: python 3.5
 
 Libraries used: tensorflow 1.4,
                 numpy, matplotlib and pickle
-### I trained them using around 12 GB of GPU memory which took approximately 2 days
+### I trained them using around 12 GB of GPU memory which took approximately a day.
 
 Below are some snippets of the results of images and text generated during training. Please compare both image and text generated to know the relation between them.
 
