@@ -9,9 +9,9 @@ Following is the architecture of my model
 
 Programming language used: python 3.5
 
-Libraries used: tensorflow 1.4,
+Libraries used: tensorflow 1.4(gpu version),
                 numpy, matplotlib and pickle
-### I trained them using around 12 GB of GPU memory which took approximately a day.
+### I trained them using around 12 GB of GPU memory which took a few hours.
 
 Below are some snippets of the results of images and text generated during training. Please compare both image and text generated to know the relation between them.
 
