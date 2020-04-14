@@ -67,5 +67,3 @@ epoch31,Generated Nos.
  '8', '3', '6', '8', '4', '4', '0', '6', '8', '8']
 
  #### NOTE: Please check the above given instances of the results for 27th and 31st epoch. if you look closely and compare the images and text, they are same in almost all cases. This is how i found that a particular image is related to its text.
- 
- #### NOTE: epoch number in image and text are different because for text i have startted from epoch 0. So please make sure while taking a look into the results folder after training img_results folder has all images and generated_txt file has the generated text(*starting from epoch 0)
